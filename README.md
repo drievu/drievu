@@ -25,7 +25,7 @@
     console.log(
       `Hi! my name is ${myName} & I am a passionate developer. 
       I am currently learning JavaScript, ${...myOtherSkills.additionalCodingSkils}.
-      My list of skills contain ${...mySkills}
+      My list of skills contain ${...mySkills}.
       I believe I am also good in ${...myOtherSkils.interpersonalSkills}.
       You can contact me at ${...contactMe}`
     );
